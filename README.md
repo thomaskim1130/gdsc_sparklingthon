@@ -1,16 +1,18 @@
 # gdsc_sparklingthon
 
-A new Flutter project.
+GDSC@KAIST, 2024 Summer (08.24 ~ 08.25) Sparklingthon : **Solving SDGs**
 
-## Getting Started
+Team 8 (Lucky Ate) : Service *"Picki"*
 
-This project is a starting point for a Flutter application.
+## Introduction
 
-A few resources to get you started if this is your first Flutter project:
+**Picki** |  Pick + Idol  &  I + Pick (up trash)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Pick up trash and verify with GPT-4o to join a raffle with your favorite idol!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Figma : https://www.figma.com/design/Ysc8mNr9VvtSIjjWtTE7vg/2024-Sparklingthon?node-id=7-39&t=UtgG01KTiHrmIm9h-0
+
+Team : 
+- Design : 표승화
+- Back : 황서은, 이제익
+- Front : 김세종
